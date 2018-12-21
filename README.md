@@ -1,4 +1,4 @@
-# ME227: Vehicle-Dynamics & Control
+# ME227: Vehicle Dynamics & Control
 
 This was hands down the best class I have taken at Stanford. The drifting assignment was one of the cooler ones (especially
 since we got hands-on experience at LeMans Racing in Fremont as well) so I figured I'd throw it in.
